@@ -35,7 +35,7 @@ Selected implementations, experiments and notes from my security and computing w
 ## Related work
 
 - [ALMOND](https://github.com/unsw-cse-comp99-3900/capstone-project-26t2-9900-t17a-almond): the original team repository for graph-based vulnerability-detector robustness research.
-- [Format-Aware Fuzzer](https://github.com/zdmmhl/6447_fuzzer): the existing black-box fuzzing implementation.
-- [iNaturalist Species Classification](https://github.com/zdmmhl/COMP9517-NB_Class-project): the existing team computer-vision project.
+- [Format-Aware Fuzzer](https://github.com/zdmmhl/format-aware-fuzzer): the existing black-box fuzzing implementation.
+- [iNaturalist Species Classification](https://github.com/zdmmhl/inat-species-classification): the existing team computer-vision project.
 - [XSS Lab Site](https://github.com/zdmmhl/zdmmhl.github.io): historical external hosting used in browser-security lab exercises.
 
