@@ -18,6 +18,14 @@ The link points to the original team repository, preserving the project's shared
 
 A Python black-box fuzzer for stdin-driven binaries. It combines byte mutations with CSV, JSON, XML, JPEG, and plaintext mutations, retains interesting inputs, and records abnormal exits and timeouts. Feedback is based on output signatures rather than instrumented code coverage.
 
+### [DIMY Contact-Tracing Lab](https://github.com/zdmmhl/dimy-contact-tracing-lab)
+
+A team Python prototype combining rotating identifiers, Shamir sharing, encounter identifiers and Bloom filters. My work covered the core node flow, the security-analysis draft and integration-test coordination. The repository includes architecture notes, explicit security limitations and four network-free primitive tests.
+
+## More work
+
+Explore my [project index](https://github.com/zdmmhl/zdmmhl/blob/main/PROJECTS.md) for binary and web security cases, digital forensics methods, wireless lab notes, systems tools, machine-learning experiments and research proposals. Each repository distinguishes implementation work, historical observations and unfinished evaluation.
+
 ## Other projects
 
 ### [iNaturalist Species Classification](https://github.com/zdmmhl/COMP9517-NB_Class-project)
