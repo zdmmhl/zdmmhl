@@ -14,7 +14,7 @@ A team research prototype for studying how source-code and program-graph perturb
 
 The link points to the original team repository, preserving the project's shared history and ownership.
 
-### [Format-Aware Fuzzer](https://github.com/zdmmhl/6447_fuzzer)
+### [Format-Aware Fuzzer](https://github.com/zdmmhl/format-aware-fuzzer)
 
 A Python black-box fuzzer for stdin-driven binaries. It combines byte mutations with CSV, JSON, XML, JPEG, and plaintext mutations, retains interesting inputs, and records abnormal exits and timeouts. Feedback is based on output signatures rather than instrumented code coverage.
 
@@ -28,7 +28,7 @@ Explore my [project index](https://github.com/zdmmhl/zdmmhl/blob/main/PROJECTS.m
 
 ## Other projects
 
-### [iNaturalist Species Classification](https://github.com/zdmmhl/COMP9517-NB_Class-project)
+### [iNaturalist Species Classification](https://github.com/zdmmhl/inat-species-classification)
 
 A team project comparing handcrafted visual features and deep-learning models for fine-grained species classification.
 
