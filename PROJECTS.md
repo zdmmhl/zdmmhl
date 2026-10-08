@@ -2,15 +2,17 @@
 
 Selected implementations, experiments and notes from my security and computing work. Each repository records its coursework origins, team or scaffold context, and verification limits. Historical results are distinguished from recent checks.
 
+Detailed writeups and historical experimental evidence are collected in the [report library](REPORTS.md).
+
 ## Security implementations and case studies
 
 | Repository | Work | Current scope |
 | --- | --- | --- |
 | [DIMY Contact-Tracing Lab](https://github.com/zdmmhl/dimy-contact-tracing-lab) | Rotating identifiers, Shamir sharing, encounter identifiers and Bloom filters | Team prototype; four network-free primitive tests passed; backend matching has known limitations |
 | [Binary Exploitation Notes](https://github.com/zdmmhl/binary-exploitation-notes) | Stack pivots, ret2libc, ROP and heap corruption | Historical analyses; targets excluded and some snippets are drafts |
-| [Web Security Case Studies](https://github.com/zdmmhl/web-security-case-studies) | Stored XSS, allowed-script CSP behavior and CRLF/DOM-XSS chaining | English retrospective analyses with remediation; old targets not rerun |
+| [Web Security Case Studies](https://github.com/zdmmhl/web-security-case-studies) | XSS, template injection, SSRF, sandbox boundaries and authorization | Detailed historical reports and edited case notes with corrections; old targets not rerun |
 | [Digital Forensics Case Studies](https://github.com/zdmmhl/digital-forensics-case-studies) | Host timelines and memory/network artifact correlation | Method summaries; original evidence remains private |
-| [Wireless Security Lab Notes](https://github.com/zdmmhl/wireless-security-lab-notes) | WEP, transparent interception and rogue access points | Historical laboratory notes; raw packet captures excluded |
+| [Wireless Security Lab Notes](https://github.com/zdmmhl/wireless-security-lab-notes) | WEP, transparent interception, rogue access points and packet analysis | Historical laboratory notes; raw packet captures excluded |
 
 ## Systems and developer tools
 
@@ -28,7 +30,7 @@ Selected implementations, experiments and notes from my security and computing w
 | Repository | Work | Current scope |
 | --- | --- | --- |
 | [Customer Churn Experiments](https://github.com/zdmmhl/customer-churn-experiments) | Preprocessing, XGBoost and T5 classification | Experimental archive with evaluation leakage documented; correction plan is not yet implemented |
-| [Security Research Notes](https://github.com/zdmmhl/security-research-notes) | Cloud encryption, key management and security assumptions | Outline of 2025 research, not current product guidance |
+| [Security Research Notes](https://github.com/zdmmhl/security-research-notes) | Cloud encryption, key management and security assumptions | Full 2025 research text editions and review notes; not current product guidance |
 | [Privacy Research Notes](https://github.com/zdmmhl/privacy-research-notes) | Enterprise differential privacy | Team research proposal; no implementation or empirical results |
 | [Neural Network Lab Notes](https://github.com/zdmmhl/neural-network-lab-notes) | Character classification and sequence models | Selected exercises with original scaffold attribution; training not reproduced |
 
