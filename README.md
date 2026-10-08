@@ -12,7 +12,7 @@ A team research prototype for studying how source-code and program-graph perturb
 
 **My contribution:** I served as product owner and coordinated requirements with the client. I contributed to the program-graph extraction, inference, and perturbation workflow; system integration and Docker deployment; functional verification using automated tests, GPU inference, and logs; and project documentation, experiment reporting, and demonstrations.
 
-The link points to the original team repository, preserving the project's shared history and ownership.
+The link points to the original team repository, preserving the project's shared history and ownership. Read the [historical team report](reports/almond-historical-team-report.md) for the submitted system design and evaluation.
 
 ### [Format-Aware Fuzzer](https://github.com/zdmmhl/format-aware-fuzzer)
 
@@ -23,6 +23,8 @@ A Python black-box fuzzer for stdin-driven binaries. It combines byte mutations 
 A team Python prototype combining rotating identifiers, Shamir sharing, encounter identifiers and Bloom filters. My work covered the core node flow, the security-analysis draft and integration-test coordination. The repository includes architecture notes, explicit security limitations and four network-free primitive tests.
 
 ## More work
+
+Browse the [report library](REPORTS.md) for detailed writeups, design reports, historical experimental results, and review notes.
 
 Explore my [project index](https://github.com/zdmmhl/zdmmhl/blob/main/PROJECTS.md) for binary and web security cases, digital forensics methods, wireless lab notes, systems tools, machine-learning experiments and research proposals. Each repository distinguishes implementation work, historical observations and unfinished evaluation.
 
